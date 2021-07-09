@@ -26,7 +26,6 @@ class App extends Component {
   }
 
   render() {
-
     const { monsters, searchField } = this.state; //This is the same as writing: 
     //const monsters = this.state.monsters;
     //const searchField = this.state.searchField;
